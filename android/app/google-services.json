@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873942598551",
+    "project_id": "zpy-user-management",
+    "storage_bucket": "zpy-user-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873942598551:android:eafda0133c2d6768867ad2",
+        "android_client_info": {
+          "package_name": "com.example.user_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873942598551-6uneh7ncet76e367523cnf1rito0ketd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO9QYOta4eXha090d-kHjMld7FhvE15NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873942598551-6uneh7ncet76e367523cnf1rito0ketd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
